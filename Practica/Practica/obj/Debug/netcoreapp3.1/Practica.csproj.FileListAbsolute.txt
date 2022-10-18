@@ -1,0 +1,14 @@
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.exe
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.deps.json
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.runtimeconfig.json
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.runtimeconfig.dev.json
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.dll
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\bin\Debug\netcoreapp3.1\Practica.pdb
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.dll
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.pdb
+C:\Users\kevin\OneDrive\Documentos\PROYECTS\git-practica-vs19\Practica\Practica\obj\Debug\netcoreapp3.1\Practica.genruntimeconfig.cache
